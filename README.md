@@ -6,7 +6,12 @@ This repository contains supplementary results for our ICML submission **#9278**
 
 * **compare.pdf**
 
-  This document presents a visual comparison between our method and two baselines: *Holodeck* and *InstructScene*. 
+  This document presents a visual comparison between our method and two baselines: *Holodeck* and *InstructScene*.
+
+  We did not include visual comparisons with the following methods for the reasons below:
+	* Chat2Layout: Not open-sourced
+	* AnyHome: Partially released, but not fully open-sourced, making fair comparison difficult
+	* LayoutGPT: Use a special prompt format that is inconsistent with the input used in other experiments
 
 * **rgb_input_result.pdf**
 
